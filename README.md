@@ -1,6 +1,6 @@
 # 🧮 Push Swap
 
-This was my first fully completed C project, and I’m incredibly proud of how it turned out. From designing my own data structures and logic to debugging and optimizing move counts — this project gave me a real taste of low-level programming, and it’s one I’ll always remember fondly.
+This was my first fully completed C program, and I’m incredibly proud of how it turned out. From designing my own data structures and logic to debugging and optimizing move counts — this project gave me a real taste of low-level programming, and it’s one I’ll always remember fondly.
 
 Push Swap taught me how to think in stacks, solve problems in steps, and debug with lldb. 💪
 
