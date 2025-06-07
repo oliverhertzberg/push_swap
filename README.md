@@ -54,7 +54,7 @@ make
 chmod +x int_generator.sh
 chmod +x checker_Mac
 
-### Run
+### 🚀 Run
 ./bin/push_swap 3 2 5 1 4
 or
 ./bin/push_swap "3 2 5 1 4"
