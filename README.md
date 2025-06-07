@@ -40,21 +40,18 @@ Inspired by Jamie Dawson’s scoring technique, this version computes optimal po
 
 ---
 
-## 🛠️ Build & Run
-
 ### Requirements
 
 - A C compiler (`clang` or `gcc`)
 - Make
 
-### Build
+### 🛠️ Build & Run 🚀
 
 ```bash
 make
 chmod +x int_generator.sh
 chmod +x checker_Mac
 
-### 🚀 Run
 ./bin/push_swap 3 2 5 1 4
 or
 ./bin/push_swap "3 2 5 1 4"
