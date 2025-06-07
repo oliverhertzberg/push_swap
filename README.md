@@ -66,7 +66,7 @@ pa
 
 Use with 42's checker binary to verify the sorting:
 ARG="3 2 5 1 4"
-./bin/push_swap $ARG | ./checker $ARG
+./bin/push_swap $ARG | ./checker_Mac $ARG
 
 You can use my int_generator bash script currently set at 500 random integers.
 ./int_generator.sh
